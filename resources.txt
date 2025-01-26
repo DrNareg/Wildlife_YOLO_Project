@@ -1,0 +1,4 @@
+The dataset of the animals is available at https://universe.roboflow.com/cs320nvm/wild_animal1-tkyj2/dataset/1
+The model is trained on yolo11m, more info refer to https://docs.ultralytics.com/tasks/detect/#models
+pip install ultralytics
+and pip install roboflow if you want to download and unzip the dataset using the notebook
